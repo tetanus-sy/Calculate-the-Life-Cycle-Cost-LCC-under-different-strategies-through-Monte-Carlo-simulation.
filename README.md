@@ -1,0 +1,1 @@
+# Calculate-the-Life-Cycle-Cost-LCC-under-different-strategies-through-Monte-Carlo-simulation.
